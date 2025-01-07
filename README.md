@@ -63,6 +63,41 @@ This repository serves as a comprehensive collection of resources for learning v
   - Laravel Framework
   - Testing and Best Practices
 
+### Rust
+- [Rust Resources](./rust/README.md)
+  - Systems Programming
+  - Memory Safety
+  - Concurrency
+  - WebAssembly
+
+### TypeScript
+- [TypeScript Resources](./typescript/README.md)
+  - Type System
+  - Modern JavaScript Features
+  - Framework Integration
+  - Best Practices
+
+### Scala
+- [Scala Resources](./scala/README.md)
+  - Functional Programming
+  - Object-Oriented Features
+  - Concurrent Programming
+  - Big Data Processing
+
+### R
+- [R Resources](./r/README.md)
+  - Statistical Computing
+  - Data Analysis
+  - Data Visualization
+  - Machine Learning
+
+### Dart
+- [Dart Resources](./dart/README.md)
+  - Flutter Development
+  - Web Development
+  - Cross-platform Apps
+  - Best Practices
+
 ## 🎯 How to Use This Repository
 
 1. Choose a programming language you want to learn
