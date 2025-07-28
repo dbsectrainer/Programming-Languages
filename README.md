@@ -1,10 +1,47 @@
-# Programming Languages Learning Resources
+# Programming-Languages
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/your-username/your-repo/issues)
+A collection of code samples, templates, and best practices for various programming languages.
 
-A comprehensive collection of resources for learning various programming languages, with a focus on enterprise and legacy systems commonly used in Fortune 100 companies. This repository provides structured learning paths, practical examples, and curated resources for developers at all levels.
+## Languages Included
+- COBOL
+- C++
+- C#
+- Dart
+- Go
+- Java
+- JavaScript
+- Kotlin
+- Low-code
+- PHP
+- Python
+- R
+- Ruby
+- Rust
+- Scala
+- Shell
+- SQL
+- Swift
+- TypeScript
+- VB.NET
+
+## Getting Started
+Browse the language-specific folders for README files and code samples.
+
+## Contributing
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+## Code of Conduct
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+## License
+This project is licensed under the terms of the LICENSE file.
+
+## Badges
+![Build Status](https://github.com/dbsectrainer/Programming-Languages/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/dbsectrainer/Programming-Languages)
+
+## Changelog
+See [CHANGELOG.md](CHANGELOG.md) for release history.
 
 ## ⭐ Give a Star!
 If you find this repository helpful or are using it to learn programming languages, please give it a star. Thanks!
